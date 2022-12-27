@@ -141,9 +141,7 @@ a {
 }
 
 @media (max-width: 600px) {
-  body {
-    padding: 1em;
-  }
+ *
   #wrapper--hero {
     flex-direction: column;
     gap: 1em;
